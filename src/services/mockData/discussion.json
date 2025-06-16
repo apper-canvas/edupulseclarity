@@ -1,0 +1,118 @@
+[
+  {
+    "Id": 1,
+    "title": "Best practices for home gardening in small spaces?",
+    "content": "I'm living in an apartment with limited outdoor space but want to start growing my own vegetables. What are some effective techniques for maximizing yield in small spaces? I'm particularly interested in vertical growing methods and container gardening tips.",
+    "category": "Agriculture",
+    "author": "GreenThumb22",
+    "createdAt": "2024-01-10T08:30:00Z",
+    "replies": [
+      {
+        "id": "1",
+        "content": "Vertical growing is fantastic for small spaces! Try using trellises for climbing plants like tomatoes, peas, and beans. Wall-mounted planters work great for herbs and leafy greens. Also consider hanging baskets for trailing plants like cherry tomatoes and strawberries.",
+        "author": "UrbanFarmer",
+        "createdAt": "2024-01-10T09:15:00Z"
+      },
+      {
+        "id": "2",
+        "content": "Container gardening is your best friend! Make sure to use containers that are deep enough for root development. A general rule is 6-8 inches for leafy greens, 12+ inches for most vegetables. Don't forget drainage holes and quality potting mix, not garden soil.",
+        "author": "PlantMom",
+        "createdAt": "2024-01-10T10:45:00Z"
+      },
+      {
+        "id": "3",
+        "content": "Consider succession planting! Plant new crops every 2-3 weeks to have continuous harvests. Also, try companion planting - like growing lettuce under taller plants for shade, or planting basil near tomatoes to improve flavor and repel pests.",
+        "author": "MasterGardener",
+        "createdAt": "2024-01-10T14:20:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "title": "How to maintain motivation while learning a new skill?",
+    "content": "I'm trying to learn data science but finding it hard to stay motivated when progress feels slow. I've started and stopped several online courses. Any advice on maintaining momentum and pushing through difficult concepts?",
+    "category": "Education",
+    "author": "CodeNewbie",
+    "createdAt": "2024-01-09T16:20:00Z",
+    "replies": [
+      {
+        "id": "4",
+        "content": "Set small, achievable daily goals rather than overwhelming yourself. I found that committing to just 30 minutes a day was more sustainable than trying to do 3-hour sessions on weekends. Consistency beats intensity!",
+        "author": "DataSciencePro",
+        "createdAt": "2024-01-09T17:30:00Z"
+      },
+      {
+        "id": "5",
+        "content": "Join a community! Whether it's online forums, local meetups, or study groups, having people to share your struggles and wins with makes a huge difference. I joined a Discord server for data science learners and it kept me accountable.",
+        "author": "LearningEnthusiast",
+        "createdAt": "2024-01-09T19:45:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "title": "Meal prep ideas for busy healthcare workers?",
+    "content": "Working 12-hour shifts makes it really challenging to eat healthy. I often end up grabbing fast food or skipping meals entirely. Looking for meal prep ideas that are nutritious, quick to prepare, and can withstand being stored for several days.",
+    "category": "Health",
+    "author": "NurseLife",
+    "createdAt": "2024-01-08T22:15:00Z",
+    "replies": [
+      {
+        "id": "6",
+        "content": "Batch cooking is a lifesaver! I spend 2-3 hours on Sunday preparing proteins, grains, and chopped vegetables. Then I can quickly assemble different combinations throughout the week. Mason jar salads stay fresh for 4-5 days if you layer correctly.",
+        "author": "MealPrepQueen",
+        "createdAt": "2024-01-09T07:30:00Z"
+      },
+      {
+        "id": "7",
+        "content": "Overnight oats and chia puddings are perfect for grab-and-go breakfasts. For lunch/dinner, try sheet pan meals - toss protein and vegetables with seasonings, roast everything together, then portion into containers. Minimal prep, maximum nutrition!",
+        "author": "HealthyEater",
+        "createdAt": "2024-01-09T08:15:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "title": "Latest developments in AI and machine learning?",
+    "content": "The field of AI seems to be moving so fast that it's hard to keep up with the latest developments. What are the most significant recent breakthroughs, and what resources do you recommend for staying current with AI research and applications?",
+    "category": "Technology",
+    "author": "TechEnthusiast",
+    "createdAt": "2024-01-07T14:30:00Z",
+    "replies": [
+      {
+        "id": "8",
+        "content": "Large Language Models like GPT and their applications in various fields have been huge this year. Also, multimodal AI that can process text, images, and audio simultaneously is becoming more sophisticated. I follow Papers With Code and Towards Data Science for the latest research.",
+        "author": "AIResearcher",
+        "createdAt": "2024-01-07T15:45:00Z"
+      },
+      {
+        "id": "9",
+        "content": "Don't overlook practical applications! AI in healthcare diagnostics, autonomous vehicles, and environmental monitoring are making real-world impacts. I recommend following specific AI companies' blogs and attending virtual conferences like NeurIPS or ICML.",
+        "author": "MLEngineer",
+        "createdAt": "2024-01-07T18:20:00Z"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "title": "Managing stress and burnout in high-pressure jobs?",
+    "content": "I've been experiencing increasing levels of stress and potential burnout symptoms in my demanding job. What are some evidence-based strategies for managing work-related stress while maintaining performance? Looking for both immediate coping techniques and long-term wellness strategies.",
+    "category": "Health",
+    "author": "StressedOut",
+    "createdAt": "2024-01-06T19:45:00Z",
+    "replies": [
+      {
+        "id": "10",
+        "content": "Mindfulness and meditation have been game-changers for me. Even 5-10 minutes of daily practice helps build resilience to stress. Apps like Headspace or Calm can guide you through different techniques. The key is consistency, not duration.",
+        "author": "MindfulWorker",
+        "createdAt": "2024-01-06T20:30:00Z"
+      },
+      {
+        "id": "11",
+        "content": "Don't underestimate the power of boundaries! Learn to say no to non-essential tasks, turn off work notifications after hours, and schedule regular breaks during your day. Your productivity actually improves when you're not constantly stressed.",
+        "author": "WorkLifeBalance",
+        "createdAt": "2024-01-07T08:15:00Z"
+      }
+    ]
+  }
+]

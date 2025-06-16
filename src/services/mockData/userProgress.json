@@ -1,0 +1,8 @@
+{
+  "userId": "user1",
+  "dailyGoal": 3,
+  "completedToday": 1,
+  "streak": 5,
+  "totalPoints": 245,
+  "topics": ["Health", "Technology", "Education"]
+}

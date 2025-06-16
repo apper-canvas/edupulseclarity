@@ -1,0 +1,167 @@
+[
+  {
+    "Id": 1,
+    "title": "Heart Health Fundamentals",
+    "category": "Health",
+    "difficulty": "beginner",
+    "timeLimit": 300,
+    "questions": [
+      {
+        "question": "What is the recommended amount of moderate exercise per week for heart health?",
+        "options": ["30 minutes", "75 minutes", "150 minutes", "300 minutes"],
+        "correctAnswer": "150 minutes",
+        "explanation": "The American Heart Association recommends at least 150 minutes of moderate-intensity aerobic activity per week for optimal cardiovascular health."
+      },
+      {
+        "question": "Which of the following is considered 'bad' cholesterol?",
+        "options": ["HDL", "LDL", "Triglycerides", "Total cholesterol"],
+        "correctAnswer": "LDL",
+        "explanation": "LDL (Low-Density Lipoprotein) is often called 'bad' cholesterol because it can build up in artery walls and increase the risk of heart disease."
+      },
+      {
+        "question": "What is a normal resting heart rate for healthy adults?",
+        "options": ["40-60 bpm", "60-100 bpm", "100-120 bpm", "120-140 bpm"],
+        "correctAnswer": "60-100 bpm",
+        "explanation": "A normal resting heart rate for healthy adults ranges from 60-100 beats per minute, though well-trained athletes may have rates as low as 40-60 bpm."
+      },
+      {
+        "question": "Which food is best for heart health?",
+        "options": ["Processed meats", "Refined grains", "Fatty fish", "Sugary drinks"],
+        "correctAnswer": "Fatty fish",
+        "explanation": "Fatty fish like salmon, mackerel, and sardines are rich in omega-3 fatty acids, which help reduce inflammation and lower the risk of heart disease."
+      },
+      {
+        "question": "What blood pressure reading is considered normal?",
+        "options": ["Less than 120/80", "120-129/80-89", "130-139/80-89", "140/90 or higher"],
+        "correctAnswer": "Less than 120/80",
+        "explanation": "Normal blood pressure is less than 120 mmHg systolic and less than 80 mmHg diastolic (120/80)."
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "title": "Sustainable Agriculture Practices",
+    "category": "Agriculture",
+    "difficulty": "intermediate",
+    "timeLimit": 450,
+    "questions": [
+      {
+        "question": "What is crop rotation primarily used for?",
+        "options": ["Increasing water usage", "Depleting soil nutrients", "Breaking pest cycles", "Reducing biodiversity"],
+        "correctAnswer": "Breaking pest cycles",
+        "explanation": "Crop rotation helps break pest and disease cycles by changing the host plants available, while also improving soil health and nutrient management."
+      },
+      {
+        "question": "Which practice helps maintain soil moisture?",
+        "options": ["Deep tillage", "Mulching", "Bare soil", "Frequent watering"],
+        "correctAnswer": "Mulching",
+        "explanation": "Mulching covers the soil surface, reducing evaporation, maintaining soil moisture, suppressing weeds, and improving soil health."
+      },
+      {
+        "question": "What is integrated pest management (IPM)?",
+        "options": ["Using only chemical pesticides", "Ignoring all pests", "Combining multiple pest control methods", "Eliminating all insects"],
+        "correctAnswer": "Combining multiple pest control methods",
+        "explanation": "IPM combines biological, cultural, physical, and chemical tools to manage pests in an environmentally and economically sustainable way."
+      },
+      {
+        "question": "Cover crops are primarily planted to:",
+        "options": ["Generate immediate income", "Protect and improve soil", "Attract more pests", "Use up excess water"],
+        "correctAnswer": "Protect and improve soil",
+        "explanation": "Cover crops protect soil from erosion, improve soil structure, add organic matter, and can fix nitrogen, enhancing overall soil health."
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "title": "Machine Learning Basics",
+    "category": "Technology",
+    "difficulty": "intermediate",
+    "timeLimit": 600,
+    "questions": [
+      {
+        "question": "What is supervised learning?",
+        "options": ["Learning without labeled data", "Learning with input-output pairs", "Learning through trial and error", "Learning without human guidance"],
+        "correctAnswer": "Learning with input-output pairs",
+        "explanation": "Supervised learning uses labeled training data (input-output pairs) to learn a mapping function that can make predictions on new, unseen data."
+      },
+      {
+        "question": "Which algorithm is commonly used for classification?",
+        "options": ["K-means clustering", "Decision trees", "PCA", "Linear regression"],
+        "correctAnswer": "Decision trees",
+        "explanation": "Decision trees are popular classification algorithms that create a model by learning simple decision rules inferred from data features."
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "options": ["Model performs poorly on all data", "Model memorizes training data too well", "Model is too simple", "Model uses too few features"],
+        "correctAnswer": "Model memorizes training data too well",
+        "explanation": "Overfitting occurs when a model learns the training data too well, including noise and outliers, resulting in poor performance on new data."
+      },
+      {
+        "question": "What is the purpose of a validation set?",
+        "options": ["To train the model", "To test final performance", "To tune hyperparameters", "To store backup data"],
+        "correctAnswer": "To tune hyperparameters",
+        "explanation": "A validation set is used during model development to tune hyperparameters and make decisions about model architecture without biasing the final test results."
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "title": "Adult Learning Strategies",
+    "category": "Education",
+    "difficulty": "beginner",
+    "timeLimit": 240,
+    "questions": [
+      {
+        "question": "What is spaced repetition?",
+        "options": ["Studying for long periods", "Reviewing material at increasing intervals", "Taking frequent breaks", "Studying multiple subjects simultaneously"],
+        "correctAnswer": "Reviewing material at increasing intervals",
+        "explanation": "Spaced repetition involves reviewing information at gradually increasing intervals, which helps strengthen long-term memory retention."
+      },
+      {
+        "question": "Which study technique involves testing yourself without looking at materials?",
+        "options": ["Highlighting", "Re-reading", "Active recall", "Note-taking"],
+        "correctAnswer": "Active recall",
+        "explanation": "Active recall is the practice of retrieving information from memory without looking at the source material, which strengthens memory formation."
+      },
+      {
+        "question": "What is the Pomodoro Technique?",
+        "options": ["A note-taking method", "A time management technique", "A memory palace method", "A speed reading technique"],
+        "correctAnswer": "A time management technique",
+        "explanation": "The Pomodoro Technique involves working in focused 25-minute intervals followed by short breaks, helping maintain concentration and prevent burnout."
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "title": "Nutrition Knowledge Check",
+    "category": "Health",
+    "difficulty": "beginner",
+    "timeLimit": 300,
+    "questions": [
+      {
+        "question": "How many food groups are in the MyPlate model?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "5",
+        "explanation": "The MyPlate model includes 5 food groups: fruits, vegetables, grains, protein, and dairy."
+      },
+      {
+        "question": "Which macronutrient provides 4 calories per gram?",
+        "options": ["Fat", "Protein", "Alcohol", "Water"],
+        "correctAnswer": "Protein",
+        "explanation": "Both protein and carbohydrates provide 4 calories per gram, while fat provides 9 calories per gram."
+      },
+      {
+        "question": "What is the recommended daily water intake for adults?",
+        "options": ["4 cups", "6 cups", "8 cups", "12 cups"],
+        "correctAnswer": "8 cups",
+        "explanation": "The general recommendation is approximately 8 cups (64 ounces) of water per day, though individual needs may vary based on activity level and climate."
+      },
+      {
+        "question": "Which vitamin is primarily obtained from sunlight exposure?",
+        "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+        "correctAnswer": "Vitamin D",
+        "explanation": "Vitamin D is synthesized in the skin when exposed to UVB radiation from sunlight, making sun exposure an important source of this vitamin."
+      }
+    ]
+  }
+]
