@@ -12,13 +12,5 @@ export const store = configureStore({
     discussion: discussionSlice,
   },
 })
-const store = configureStore({
-  reducer: {
-    user: userSlice,
-    feed: feedSlice,
-    quiz: quizSlice,
-    discussion: discussionSlice,
-  },
-})
 
 export default store
