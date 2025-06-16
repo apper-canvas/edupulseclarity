@@ -12,6 +12,13 @@ export const store = configureStore({
     discussion: discussionSlice,
   },
 })
+const store = configureStore({
+  reducer: {
+    user: userSlice,
+    feed: feedSlice,
+    quiz: quizSlice,
+    discussion: discussionSlice,
+  },
+})
 
-export type RootState = ReturnType<typeof store.getState>
-export type AppDispatch = typeof store.dispatch
+export default store
